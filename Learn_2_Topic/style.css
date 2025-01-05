@@ -1,0 +1,13 @@
+body{
+    background-color:whitesmoke;
+    font-family: monospace;
+    color: blue;
+    font-size: medium;
+}
+div{
+    color: rgb(230, 56, 56);
+    font-size: large;
+}
+.link-images{
+    font-size:larger;
+}
